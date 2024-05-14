@@ -63,7 +63,10 @@ function App() {
                 </Button>
                 <Button appearance="primary" type="submit">
                   Create
-                </Button>                
+                </Button>    
+                <Button appearance="primary" type="submit">
+                  Add
+                </Button>                            
               </ModalFooter>
             </form>
           </Modal>
